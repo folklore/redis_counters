@@ -1,6 +1,6 @@
 
 #### [Current]
-
+ * 2016-07-21 [b005257](../../commit/b005257) - __(Stanislav Gordanov)__ feat: переместит значение инкремента в начало массива данных
 
 #### v1.2.0
  * 2014-11-10 [be642ce](../../commit/be642ce) - __(Artem Napolskih)__ Release 1.2.0
